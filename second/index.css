@@ -15,8 +15,8 @@
 #purpleRect {
     margin-top: auto;
     margin-right: 50px;
-    height: 175px;
-    width: 60px;
+    height: 15vh;
+    width: 3vw;
     background-color: #a400e1;
 }
 
@@ -28,8 +28,8 @@
 }
 
 #blueCircle {
-    height: 205px;
-    width: 205px;
+    height: 19.5vh;
+    width: 19.5vh;
     background-color: #77cceb;
     border-radius: 50%;
 }
