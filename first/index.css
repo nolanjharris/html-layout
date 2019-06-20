@@ -1,0 +1,35 @@
+html {
+    overflow: hidden;
+}
+
+#topDiv {
+    width: 100vw;
+    height: 15vh;
+    background-color: rgb(54, 54, 54);
+}
+
+#leftDiv {
+    display: inline-block;
+    height: 85vh;
+    width: 10vw;
+    background-color: lightgray;
+}
+
+#rightDiv {
+    display: inline-block;
+    float: right;
+    height: 85vh;
+    width: 10vw;
+    background-color: lightgray;
+}
+
+#bottomDiv {
+    position: absolute;
+    bottom: 0;
+    display: inline-block;
+    height: 10vh;
+    width: 80vw;
+    margin: 0;
+    z-index: -1;
+    background-color: rgb(54, 54, 54);
+}

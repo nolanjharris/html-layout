@@ -1,0 +1,46 @@
+html {
+    overflow: hidden;
+}
+
+#greyDiv {
+    width: 100vw;
+    height: 10vh;
+    background-color: #d7d7d7;
+    padding: 15px;
+}
+
+#blueBox {
+    margin-left: 20px;
+    height: 9.5vh;
+    width: 9.5vh;
+    background-color: #476ecc;
+}
+
+#contentDiv {
+    height: 20vh;
+    width: 94vw;
+    padding: 3vw;
+    line-height: 1em;
+    font-size: 2.5vw;
+}
+
+.colorDiv {
+    width: 100vw;
+    height: 15vh;
+}
+
+#blueDiv {
+    background-color: #4f7ae2;
+}
+
+#tealDiv {
+    background-color: #00f3c2;
+}
+
+#tanDiv {
+    background-color: #9efd86;
+}
+
+#yellowDiv {
+    background-color: #f1fa1e;
+}
